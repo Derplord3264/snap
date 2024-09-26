@@ -1,4 +1,4 @@
-const CLIENT_ID = 'your-scaledrone-channel-id';
+const CLIENT_ID = 'MTtVySuZ98b8nbXY';
 const drone = new Scaledrone(CLIENT_ID, {
     data: { name: 'Anonymous' }
 });
