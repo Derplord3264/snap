@@ -11,7 +11,7 @@ body {
 
 #chat-container {
     width: 90vh;
-    height: 90vh;
+    height: 90vw;
     max-width: 100%;
     background-color: #3b3b3b;
     border-radius: 10px;
