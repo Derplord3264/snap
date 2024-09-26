@@ -10,7 +10,8 @@ body {
 }
 
 #chat-container {
-    width: 400px;
+    width: 90%;
+    height: 90%;
     max-width: 100%;
     background-color: #3b3b3b;
     border-radius: 10px;
